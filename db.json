@@ -1,27 +1,45 @@
 {
-    "teams": [
-        {
-            "id": 1,
-            "name": "Manchester United",
-            "league": "Premier League",
-            "city": "Manchester",
-            "country": "England",
-            "players": [
-                "Marcus Rashford",
-                "Bruno Fernandes",
-                "Paul Pogba",
-                "Edinson Cavani"
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Barcelona",
-            "league": "La Liga",
-            "city": "Barcelona",
-            "country": "Spain",
-            "players": [
-                "Leo Messi"
-            ]
-        }
-    ]
+  "teams": [
+    {
+      "id": 1,
+      "name": "Manchester United",
+      "league": "Premier League",
+      "city": "Manchester",
+      "country": "England",
+      "players": [
+        "Paul Pogba",
+        "Edinson Cavani",
+        "Joseph Burks"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Barcelona",
+      "league": "La Liga",
+      "city": "Barcelona",
+      "country": "Spain",
+      "players": [
+        "Leo Messi",
+        "Pique"
+      ]
+    },
+    {
+      "name": "Inter Milan",
+      "league": "Serie A",
+      "city": "Milan",
+      "country": "Italy",
+      "players": [
+        "Zlatan"
+      ],
+      "id": 3
+    },
+    {
+      "name": "AC Milan",
+      "league": "Serie A",
+      "city": "Milan",
+      "country": "Italy",
+      "players": [],
+      "id": 4
+    }
+  ]
 }
