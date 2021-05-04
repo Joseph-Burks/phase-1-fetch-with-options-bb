@@ -1,0 +1,27 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Manchester United",
+            "league": "Premier League",
+            "city": "Manchester",
+            "country": "England",
+            "players": [
+                "Marcus Rashford",
+                "Bruno Fernandes",
+                "Paul Pogba",
+                "Edinson Cavani"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Barcelona",
+            "league": "La Liga",
+            "city": "Barcelona",
+            "country": "Spain",
+            "players": [
+                "Leo Messi"
+            ]
+        }
+    ]
+}
