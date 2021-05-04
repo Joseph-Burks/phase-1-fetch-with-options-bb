@@ -88,6 +88,10 @@ const createPlayer = (player, players, team) => {
 		let index = team.players.indexOf(player);
 		team.players.splice(index, 1);
 
+        //another way to edit the array of players
+        // let newPlayers = team.players.filter(p => p !== player)
+        // then the body in options can be {players: newPlayers}
+
 		let options = {
 			method: 'PATCH',
 			headers: {
